@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Data Sensemaking
+An NYU Tandon's course on how to extract knowledge out of data with interactive data analysis tools.
 
-You can use the [editor on GitHub](https://github.com/nyuvis/data-sensemaking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
